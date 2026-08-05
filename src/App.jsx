@@ -30,11 +30,11 @@ function App() {
       pageToDisplay = <Home setCurrentPage={setCurrentPage} />
   }
 
-  const name = 'dena'
+  
 
   return (
     <div className="app">
-      <h1 className="logo">Decimal Learning {name}</h1>
+      <h1 className="logo">Decimal Learning</h1>
       <nav className="navbar">
         <button onClick={() => setCurrentPage('home')}>Home</button>
         <button onClick={() => setCurrentPage('learn')}>Learn</button>
