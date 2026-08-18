@@ -120,8 +120,11 @@ The goal of Decimal Learning is to provide a simple, interactive way for student
 ## 👩‍💻 Author
 
 **Dena Shibu**
+
 **Anagha Ravi**
 
 BCA Student
 
 GitHub: [Dena-Shibu](https://github.com/Dena-Shibu)
+
+GitHub: [Anagharavi1](https://github.com/Anagharavi1)
